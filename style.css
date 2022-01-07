@@ -1,0 +1,11 @@
+.c-nav-right{
+    margin-left: auto;
+}
+.h1-architect{
+    bottom: 40%;
+    left: 40%;
+    color: white;
+}
+.c-nav-right a:hover{
+    background-color: gray;
+}
