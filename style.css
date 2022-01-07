@@ -9,3 +9,9 @@
 .c-nav-right a:hover{
     background-color: gray;
 }
+.line{
+    width: 90%;
+    height: 1px;
+    background-color: gainsboro;
+    margin-left: 60px;
+}
